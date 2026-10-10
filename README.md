@@ -1,12 +1,12 @@
-# Fatema Waly — Portfolio
+# Fatema Waly - Portfolio
 
 A responsive, static portfolio for software engineering applications in the UK.
 
 ## Files
 
-- `index.html` — page content and metadata
-- `styles.css` — responsive visual design
-- `script.js` — mobile navigation
+- `index.html` - page content and metadata
+- `styles.css` - responsive visual design
+- `script.js` - mobile navigation
 
 ## Preview locally
 
